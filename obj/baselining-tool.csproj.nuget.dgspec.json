@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\codeql-home\\codeql\\baselining-tool\\baselining-tool.csproj": {}
+  },
+  "projects": {
+    "C:\\codeql-home\\codeql\\baselining-tool\\baselining-tool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\codeql-home\\codeql\\baselining-tool\\baselining-tool.csproj",
+        "projectName": "baselining-tool",
+        "projectPath": "C:\\codeql-home\\codeql\\baselining-tool\\baselining-tool.csproj",
+        "packagesPath": "C:\\Users\\t-atamene\\.nuget\\packages\\",
+        "outputPath": "C:\\codeql-home\\codeql\\baselining-tool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t-atamene\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Sarif.Sdk": {
+              "target": "Package",
+              "version": "[2.4.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

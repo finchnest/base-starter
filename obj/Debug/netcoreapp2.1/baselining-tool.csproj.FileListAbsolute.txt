@@ -1,0 +1,11 @@
+C:\codeql-home\codeql\baselining-tool\bin\Debug\netcoreapp2.1\baselining-tool.deps.json
+C:\codeql-home\codeql\baselining-tool\bin\Debug\netcoreapp2.1\baselining-tool.runtimeconfig.json
+C:\codeql-home\codeql\baselining-tool\bin\Debug\netcoreapp2.1\baselining-tool.runtimeconfig.dev.json
+C:\codeql-home\codeql\baselining-tool\bin\Debug\netcoreapp2.1\baselining-tool.dll
+C:\codeql-home\codeql\baselining-tool\bin\Debug\netcoreapp2.1\baselining-tool.pdb
+C:\codeql-home\codeql\baselining-tool\obj\Debug\netcoreapp2.1\baselining-tool.csprojAssemblyReference.cache
+C:\codeql-home\codeql\baselining-tool\obj\Debug\netcoreapp2.1\baselining-tool.csproj.CoreCompileInputs.cache
+C:\codeql-home\codeql\baselining-tool\obj\Debug\netcoreapp2.1\baselining-tool.AssemblyInfoInputs.cache
+C:\codeql-home\codeql\baselining-tool\obj\Debug\netcoreapp2.1\baselining-tool.AssemblyInfo.cs
+C:\codeql-home\codeql\baselining-tool\obj\Debug\netcoreapp2.1\baselining-tool.dll
+C:\codeql-home\codeql\baselining-tool\obj\Debug\netcoreapp2.1\baselining-tool.pdb
