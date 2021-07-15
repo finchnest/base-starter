@@ -1,0 +1,10 @@
+try
+{
+    SarifLog sarif = SarifLog.Load(@"..\databases\NewBaseline.sarif");
+    Console.WriteLine("value is " + sarif.Runs[0].Results.Count);
+
+}
+catch (Exception e)
+{
+    Console.WriteLine(e.Message);
+}
